@@ -1,0 +1,21 @@
+{
+  "name": "company-a",
+  "version": "1.0.0",
+  "description": "Company A organizer",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chadkaplan/Company-A.git"
+  },
+  "author": "Chad Kaplan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chadkaplan/Company-A/issues"
+  },
+  "homepage": "https://github.com/Chadkaplan/Company-A#readme"
+}
